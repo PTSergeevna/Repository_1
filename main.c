@@ -1,3 +1,4 @@
+// Метод, который выводит сумму узлов дерева
 class tree {
     struct node {
         int     val;
